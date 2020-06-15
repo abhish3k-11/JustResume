@@ -10,15 +10,18 @@ The project is divided into three parts:
 
 - Front end of the project:
 
-- Landing Page
-- Team Page
-- Templates Page
-- Login Page
-- Details Page
+  - Landing Page
+  - Team Page
+  - Templates Page
+  - Login Page
+  - Details Page
 
 - Back end of the project:
 
-Basically a form that takes in the details of a person, feeds the data to our latex file and creates the resume
+  - Basically a form that takes in the details of a person, feeds the data to our latex file and creates the resume
+Donation using patreon,razorpay and stripe
+
+  - Download options
 
 
 <a href = "http://www.pclubsummerofcode.in/"><h3 align= "center"><b> PClub Summer of Code </b></h3></a> 

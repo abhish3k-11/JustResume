@@ -6,7 +6,7 @@ In today's world a Resume is a necessity. It's a good resume that can make it fo
 
 The project is divided into three parts:
 
-- Creating Resumes as per expert suggestions and aesthetic design in Latex. [ Use [Overleaf](https://www.overleaf.com) for working on these
+- Creating Resumes as per expert suggestions and aesthetic design in Latex. [ Use [Overleaf](https://www.overleaf.com) for working on these]
 
 - Front end of the project:
 

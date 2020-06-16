@@ -14,7 +14,6 @@ The project is divided into three parts:
   - Team Page
   - Templates Page
   - Login Page
-  - Details Page
 
 - Back end of the project:
 

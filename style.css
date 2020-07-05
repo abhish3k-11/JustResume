@@ -1,0 +1,82 @@
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+p{
+    color: #999;
+    line-height: 25px;
+}
+h3{
+    color: #fff;
+    font-size: 18px;
+}
+.footer-top{
+    background: #111;
+    padding: 80px 0px;
+}
+.segment-one h3{
+    font-family: Courgette;
+    color: #fff;
+    letter-spacing: 3px;
+    margin: 10px 0;
+}
+.segment-two h3{
+    color: #fff;
+    font-family: Poppins;
+    text-transform: uppercase;
+}
+.segment-two h3:before{
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+.segment-two ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.segment-two ul li{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    line-height: 30px;
+}
+.segment-two ul li a{
+    color: #999;
+    text-decoration: none;
+}
+.segment-three h3{
+    color: #fff;
+    font-family: monospace;
+    text-transform: uppercase;
+}
+.segment-three h3:before{
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+.segment-three a{
+    background: #494848;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}
+.segment-three a i{
+    font-size: 20px;
+    color: #fff;
+    padding: 10px 12px;
+}
+.segment-four h3{
+    color: #fff;
+    font-family: monospace;
+    text-transform: uppercase;
+}
+.segment-four h3:before{
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+}
+.footer-bottom-text{
+    text-align: center;
+    background: #000;
+    line-height: 75px;
+}

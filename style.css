@@ -25,7 +25,7 @@ h3{
     font-family: Poppins;
     text-transform: uppercase;
 }
-.segment-two h3:before{
+.segment-two h3::before{
     content: '|';
     color: #c65039;
     padding-right: 10px;
@@ -48,7 +48,7 @@ h3{
     font-family: monospace;
     text-transform: uppercase;
 }
-.segment-three h3:before{
+.segment-three h3::before{
     content: '|';
     color: #c65039;
     padding-right: 10px;
@@ -70,7 +70,7 @@ h3{
     font-family: monospace;
     text-transform: uppercase;
 }
-.segment-four h3:before{
+.segment-four h3::before{
     content: '|';
     color: #c65039;
     padding-right: 10px;
@@ -79,4 +79,12 @@ h3{
     text-align: center;
     background: #000;
     line-height: 75px;
+}
+.jumbotron{
+    background: #1a458a;
+}
+li a:hover{
+	background-color: #fff;
+	color: #fff;
+	text-decoration: bold;
 }
